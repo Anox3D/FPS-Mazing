@@ -15,6 +15,7 @@ If you find how to fix the problems, you can contact me on Discord, my tag is An
 ![screenshot5](https://user-images.githubusercontent.com/71902913/108626745-067e1a80-7452-11eb-9202-f70d59b083da.png)
 
 # Video
+Click on the image to see the video.
 <a target="_blank" href="https://anox3d.github.io/anoxs-thingies/videos/FPS-Mazing/video.mp4">
   <img name="video" src="https://user-images.githubusercontent.com/71902913/112212868-c9a66e80-8c1d-11eb-8cef-ee9e24f0613c.png">
 </a>
