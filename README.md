@@ -5,7 +5,7 @@ Attempt to a raycasting engine based on this tutorial: https://youtu.be/gYRrGTC7
 There's no license so you can download the code if you want but it's kind of useless cause of the problems.
 
 # If you find how to fix the problems...
-If you find how to fix the problems, you can contact me on Discord, my tag is Anox3D#9720.
+If you find how to fix the problems, you can contact me on Discord using my tag, Anox3D#9720, or by joining my server: https://discord.gg/D3Xk7r6Hda.
 
 # Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/71902913/108626741-054ced80-7452-11eb-8c5c-abbb4fd6d9bd.png)
