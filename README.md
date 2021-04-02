@@ -7,6 +7,12 @@ There's no license so you can download the code if you want but it's kind of use
 # If you find how to fix the problems...
 If you find how to fix the problems, you can contact me on Discord using my tag, Anox3D#9720, or by joining my server: https://discord.gg/D3Xk7r6Hda.
 
+# Usage
+W to move forward
+A to turn left
+S to move backward
+D to turn right
+
 # Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/71902913/108626741-054ced80-7452-11eb-8c5c-abbb4fd6d9bd.png)
 ![screenshot2](https://user-images.githubusercontent.com/71902913/108626742-05e58400-7452-11eb-82b1-ee2b13569f72.png)
